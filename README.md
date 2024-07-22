@@ -36,7 +36,7 @@ To use this project, you need to have the LEDA library installed on your system.
 
 ## Usage
 
-Run the compiled `bipartite_checker` executable with the graph file as an argument:
+Run the compiled `bipartite_checker` executable:
 ```sh
 ./bipartite_checker 
 ```
