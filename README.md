@@ -30,7 +30,7 @@ To use this project, you need to have the LEDA library installed on your system.
 
 3. Compile the project and build the `bipartite_checker` executable:
     ```sh
-        make bipartite_checker
+    make bipartite_checker
 
     ```
 
