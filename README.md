@@ -28,14 +28,10 @@ To use this project, you need to have the LEDA library installed on your system.
     cd bipartite-checker/bin
     ```
 
-3. Compile the project:
+3. Compile the project and build the `bipartite_checker` executable:
     ```sh
-    make
-    ```
+        make bipartite_checker
 
-4. Build the `bipartite_checker` executable:
-    ```sh
-    make bipartite_checker
     ```
 
 ## Usage
